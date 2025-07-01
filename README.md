@@ -101,7 +101,6 @@ https://github.com/user-attachments/assets/2535d16e-2722-49be-8e94-2483244367d1
 
 ---
 
-## ✨ Credits
-
-Made by **Abdulrahman Alnashri**
-
+## 🤖 Developed by
+Abdulrahman Alnashri – AI & Robotics Engineer  
+📍 [LinkedIn](https://www.linkedin.com/in/abdulrahman-alnashri-b017b62ab/)
